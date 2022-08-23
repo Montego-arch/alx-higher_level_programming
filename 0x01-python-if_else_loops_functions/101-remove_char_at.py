@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Okeke Emmanuel Omolola
+# Author - Okeke emmanuel
 
 def magic_calculation(a, b, c):
     """Match bytecode provided by Holberton School."""
